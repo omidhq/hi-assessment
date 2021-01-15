@@ -1,4 +1,4 @@
-**HyperIsland's 1st Assessment**
+###HyperIsland's 1st Assessment
 
 This is a document to note down the course goals from Hyper Island's first semester and demonstrate how I have been engaged with the goals to learn them. 
 
